@@ -1,4 +1,4 @@
-# Lector Excel - V2
+# PelisApp
 
 _Proyecto creado con Angular, en el mismo se usa la API de "The Movie DB" para buscar informació de peliculas y series y mostrarlas en pantalla_
 
